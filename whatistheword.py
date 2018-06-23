@@ -41,6 +41,10 @@ while answer == 0:
     attemptsLeft = attemptsLeft - 1
     attempts = attempts + 1
 
+    # Updating attemptsLeftPhrase
+    attemptsLeftToString = str(attemptsLeft)
+    attemptsLeftPhrase = "You have " + attemptsLeftToString + " attempts left"
+
     if userInput == wordArrayPrint:
         answer = 1
         print("Nice!")
