@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="40fadb53-a924-49bf-9838-48aed88d9800" name="Default" comment="" />
+=======
+    <list default="true" id="40fadb53-a924-49bf-9838-48aed88d9800" name="Default" comment="">
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/userinput.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/userinput.iml" afterDir="false" />
+>>>>>>> 6d1a91158a34e515759b9576e1c635444913c115
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 4e05b726033354da27bd1a4546a212846fb5b4e2
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +34,21 @@
       <file leaf-file-name="whatistheword.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/whatistheword.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="569">
               <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="247">
+              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+=======
+            <state relative-caret-position="419">
+              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+>>>>>>> 4e05b726033354da27bd1a4546a212846fb5b4e2
               <folding>
                 <element signature="e#1047#1832#0" />
               </folding>
+>>>>>>> 6d1a91158a34e515759b9576e1c635444913c115
             </state>
           </provider>
         </entry>
@@ -160,8 +181,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+=======
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
+>>>>>>> 6d1a91158a34e515759b9576e1c635444913c115
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18541667" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -310,11 +335,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/whatistheword.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="569">
           <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="247">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+=======
+        <state relative-caret-position="419">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+>>>>>>> 4e05b726033354da27bd1a4546a212846fb5b4e2
           <folding>
             <element signature="e#1047#1832#0" />
           </folding>
+>>>>>>> 6d1a91158a34e515759b9576e1c635444913c115
         </state>
       </provider>
     </entry>
